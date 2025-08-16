@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Cap 1
+#EXTINF:-1, 01x01
 https://ia601008.us.archive.org/1/items/output_20250731/output.mp4
-#EXTINF:-2, Cap 2 
+#EXTINF:-2, 01x02 
 https://ia600906.us.archive.org/12/items/output_20250731_2000/output.mp4
-#EXTINF:-3, Cap 3 
+#EXTINF:-3, 01x03
 https://ia801704.us.archive.org/9/items/output_202508/output.mp4
-#EXTINF:-4, Cap 4 
+#EXTINF:-4, 01x04
 https://ia601006.us.archive.org/25/items/output_20250731_2123/output.mp4
-#EXTINF:-5, Cap 5
+#EXTINF:-5, 01x05
 https://ia600907.us.archive.org/32/items/output_20250802_1544/output.mp4
-#EXTINF:-6, Cap 6 
+#EXTINF:-6, 01x06
 https://ia801405.us.archive.org/20/items/outputt/outputt.mp4
