@@ -1,13 +1,21 @@
 #EXTM3U
+#X-VER: JDC-T3
+#X-BUILD: 20250405
+
 #EXTINF:-1, JDC 1X01
 https://ia601008.us.archive.org/1/items/output_20250731/output.mp4
-#EXTINF:-2, JDC 1X02
+
+#EXTINF:-1, JDC 1X02
 https://ia600906.us.archive.org/12/items/output_20250731_2000/output.mp4
-#EXTINF:-3, JDC 1X03
+
+#EXTINF:-1, JDC 1X03
 https://ia801704.us.archive.org/9/items/output_202508/output.mp4
-#EXTINF:-4, JDC 1X04
+
+#EXTINF:-1, JDC 1X04
 https://ia601006.us.archive.org/25/items/output_20250731_2123/output.mp4
-#EXTINF:-5, JDC 1X05
+
+#EXTINF:-1, JDC 1X05
 https://ia600907.us.archive.org/32/items/output_20250802_1544/output.mp4
-#EXTINF:-6, JDC 1X06
+
+#EXTINF:-1, JDC 1X06
 https://ia801405.us.archive.org/20/items/outputt/outputt.mp4
