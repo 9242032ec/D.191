@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="liga1max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Football_pictogram.svg" group-title="Deportes", Liga 1 Max
+https://a2vlca.fubohd.com/liga1max/mono.m3u8?token=c6ca7b5e9f4c8f3e8d7c15a849e21b5a46b5be26-f9-1755984297-1755966297
+
+#EXTINF:-2 
