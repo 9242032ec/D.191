@@ -395,9 +395,3 @@ http://181.13.112.203:8100/play/a0bg/index.m3u8
 #EXTINF:0,el trece HD
 #EXTGRP:-
 http://190.104.67.8:234/play/a07b/index.m3u8
-#EXTINF:0,CANAL 11 DE SALTA
-#EXTGRP:
-http://181.13.112.203:8100/play/a0f1/index.m3u8
-#EXTINF:0,CANAL 2 SALTA
-#EXTGRP:
-http://181.13.112.203:8100/play/a0f6/index.m3u8
