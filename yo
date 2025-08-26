@@ -1,400 +1,400 @@
 #EXTM3U
-#EXTINF:0,26TV
+#EXTINF:-1,26TV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01r/index.m3u8
-#EXTINF:0,A&E HD
+#EXTINF:-1,A&E HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05i/index.m3u8
-#EXTINF:0,A24
+#EXTINF:-1,A24
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01o/index.m3u8
-#EXTINF:0,A24
+#EXTINF:-1,A24 [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a01o/index.m3u8
-#EXTINF:0,AM Sports
+#EXTINF:-1,AM Sports
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01v/index.m3u8
-#EXTINF:0,AMC
+#EXTINF:-1,AMC
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01z/index.m3u8
-#EXTINF:0,ARGENTINISIMA
+#EXTINF:-1,ARGENTINISIMA
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0ey/index.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:-1,AXN HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05f/index.m3u8
-#EXTINF:0,Adult swim HD
+#EXTINF:-1,Adult swim HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0dd/index.m3u8
-#EXTINF:0,America TV
+#EXTINF:-1,America TV
 #EXTGRP:-
 http://181.13.252.102:8000/play/a055/index.m3u8
-#EXTINF:0,America TV HD
+#EXTINF:-1,America TV HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a055/index.m3u8
-#EXTINF:0,BANDEIRANTES
+#EXTINF:-1,BANDEIRANTES
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0f2/index.m3u8
-#EXTINF:0,Baby TV
+#EXTINF:-1,Baby TV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02e/index.m3u8
-#EXTINF:0,C5N
+#EXTINF:-1,C5N
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01p/index.m3u8
-#EXTINF:0,CNN en Espaæol
+#EXTINF:-1,CNN en Español
 #EXTGRP:-
 http://181.13.112.203:8100/play/a054/index.m3u8
-#EXTINF:0,Canal a
+#EXTINF:-1,Canal a
 #EXTGRP:-
 http://181.13.112.203:8100/play/a09j/index.m3u8
-#EXTINF:0,Canal de la Ciudad
+#EXTINF:-1,Canal de la Ciudad
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06e/index.m3u8
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 #EXTGRP:-
 http://181.13.252.102:8000/play/a075/index.m3u8
-#EXTINF:0,Cartoon Network HD
+#EXTINF:-1,Cartoon Network HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a075/index.m3u8
-#EXTINF:0,Cine.AR
+#EXTINF:-1,Cine.AR
 #EXTGRP:-
 http://181.13.112.203:8100/play/a024/index.m3u8
-#EXTINF:0,Cinecanal
+#EXTINF:-1,Cinecanal
 #EXTGRP:-
 http://181.13.252.102:8000/play/a07b/index.m3u8
-#EXTINF:0,Cinecanal HD
+#EXTINF:-1,Cinecanal HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07b/index.m3u8
-#EXTINF:0,Cinemax
+#EXTINF:-1,Cinemax
 #EXTGRP:-
 http://181.13.112.203:8100/play/a04s/index.m3u8
-#EXTINF:0,Cinemax
+#EXTINF:-1,Cinemax [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a04s/index.m3u8
-#EXTINF:0,Comedy Central
+#EXTINF:-1,Comedy Central
 #EXTGRP:-
 http://181.13.252.102:8000/play/a02x/index.m3u8
-#EXTINF:0,Comedy Central HD
+#EXTINF:-1,Comedy Central HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02x/index.m3u8
-#EXTINF:0,Cronica
+#EXTINF:-1,Cronica
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01q/index.m3u8
-#EXTINF:0,Canal 12 CBA
+#EXTINF:-1,Canal 12 CBA
 #EXTGRP:-
 http://190.123.90.146:8000/play/a039/index.m3u8
-#EXTINF:0,DeporTV
+#EXTINF:-1,DeporTV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06h/index.m3u8
-#EXTINF:0,Discovery Channel HD
+#EXTINF:-1,Discovery Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07i/index.m3u8
-#EXTINF:0,Discovery H&H HD
+#EXTINF:-1,Discovery H&H HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07h/index.m3u8
-#EXTINF:0,Discovery Kids
+#EXTINF:-1,Discovery Kids
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06t/index.m3u8
-#EXTINF:0,Discovery Science
+#EXTINF:-1,Discovery Science
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02k/index.m3u8
-#EXTINF:0,Discovery Theater HD
+#EXTINF:-1,Discovery Theater HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02z/index.m3u8
-#EXTINF:0,Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01w/index.m3u8
-#EXTINF:0,Discovery World HD
+#EXTINF:-1,Discovery World HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a031/index.m3u8
-#EXTINF:0,Disney Channel HD
+#EXTINF:-1,Disney Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02r/index.m3u8
-#EXTINF:0,Disney Junior
+#EXTINF:-1,Disney Junior
 #EXTGRP:-
 http://181.13.112.203:8100/play/a04y/index.m3u8
-#EXTINF:0,E! Entertainment
+#EXTINF:-1,E! Entertainment
 #EXTGRP:-
 http://181.13.112.203:8100/play/a050/index.m3u8
-#EXTINF:0,EL FOLKLORICO TV
+#EXTINF:-1,EL FOLKLORICO TV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0em/index.m3u8
-#EXTINF:0,EL GARAGE
+#EXTINF:-1,EL GARAGE
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0f0/index.m3u8
-#EXTINF:0,ESPN 2 HD
+#EXTINF:-1,ESPN 2 HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a059/index.m3u8
-#EXTINF:0,ESPN 3 HD
+#EXTINF:-1,ESPN 3 HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05b/index.m3u8
-#EXTINF:0,ESPN 4 HD
+#EXTINF:-1,ESPN 4 HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a076/index.m3u8
-#EXTINF:0,ESPN HD
+#EXTINF:-1,ESPN HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05a/index.m3u8
-#EXTINF:0,ESPN Premium HD
+#EXTINF:-1,ESPN Premium HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a078/index.m3u8
-#EXTINF:0,ESPN Premium HD
+#EXTINF:-1,ESPN Premium HD [Backup1]
 #EXTGRP:-
 http://181.10.123.154:14000/play/a078/index.m3u8
-#EXTINF:0,ESPN Premium HD
+#EXTINF:-1,ESPN Premium HD [Backup2]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a078/index.m3u8
-#EXTINF:0,El Canal  de las Estrellas
+#EXTINF:-1,El Canal de las Estrellas
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06z/index.m3u8
-#EXTINF:0,Eventos HD
+#EXTINF:-1,Eventos HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0af/index.m3u8
-#EXTINF:0,Eventos HD
+#EXTINF:-1,Eventos HD [Backup1]
 #EXTGRP:-
 http://200.80.230.124:8000/play/a0bf/index.m3u8
-#EXTINF:0,Eventos HD
+#EXTINF:-1,Eventos HD [Backup2]
 #EXTGRP:-
 http://143.0.67.77:8000/play/a0af/index.m3u8
-#EXTINF:0,El Gourmet
+#EXTINF:-1,El Gourmet
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06w/index.m3u8
-#EXTINF:0,Encuentro
+#EXTINF:-1,Encuentro
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01m/index.m3u8
-#EXTINF:0,Europa Europa
+#EXTINF:-1,Europa Europa
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06v/index.m3u8
-#EXTINF:0,FX HD
+#EXTINF:-1,FX HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02v/index.m3u8
-#EXTINF:0,Film & Arts HD
+#EXTINF:-1,Film & Arts HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a030/index.m3u8
-#EXTINF:0,Fox Sports 2 HD
+#EXTINF:-1,Fox Sports 2 HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05c/index.m3u8
-#EXTINF:0,Fox Sports 3 HD
+#EXTINF:-1,Fox Sports 3 HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02t/index.m3u8
-#EXTINF:0,Fox Sports HD
+#EXTINF:-1,Fox Sports HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07j/index.m3u8
-#EXTINF:0,HBO FHD
+#EXTINF:-1,HBO FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a022/index.m3u8
-#EXTINF:0,HBO 2 FHD
+#EXTINF:-1,HBO 2 FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a01k/index.m3u8
-#EXTINF:0,HBO Plus FHD
+#EXTINF:-1,HBO Plus FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a01v/index.m3u8
-#EXTINF:0,HBO Pop FHD
+#EXTINF:-1,HBO Pop FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a01j/index.m3u8
-#EXTINF:0,HBO Family FHD
+#EXTINF:-1,HBO Family FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a03d/index.m3u8
-#EXTINF:0,HBO Mundi FHD
+#EXTINF:-1,HBO Mundi FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a027/index.m3u8
-#EXTINF:0,HBO Signature SD
+#EXTINF:-1,HBO Signature SD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02c/index.m3u8
-#EXTINF:0,HBO Xtreme FHD
+#EXTINF:-1,HBO Xtreme FHD
 #EXTGRP:-
 http://190.123.90.146:8000/play/a01i/index.m3u8
-#EXTINF:0,HGTV
+#EXTINF:-1,HGTV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02j/index.m3u8
-#EXTINF:0,HTV
+#EXTINF:-1,HTV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02o/index.m3u8
-#EXTINF:0,History 2
+#EXTINF:-1,History 2
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0ab/index.m3u8
-#EXTINF:0,La Nacion TV
+#EXTINF:-1,La Nacion TV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01s/index.m3u8
-#EXTINF:0,La Nacion TV
+#EXTINF:-1,La Nacion TV [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a01s/index.m3u8
-#EXTINF:0,Lifetime
+#EXTINF:-1,Lifetime
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06n/index.m3u8
-#EXTINF:0,MTV
+#EXTINF:-1,MTV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02m/index.m3u8
-#EXTINF:0,MTV×00
+#EXTINF:-1,MTV 00
 #EXTGRP:-
 http://181.13.112.203:8100/play/a053/index.m3u8
-#EXTINF:0,Metro
+#EXTINF:-1,Metro
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02g/index.m3u8
-#EXTINF:0,NVS CANAL 10
+#EXTINF:-1,NVS CANAL 10
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0f7/index.m3u8
-#EXTINF:0,Nat Geo HD
+#EXTINF:-1,Nat Geo HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05g/index.m3u8
-#EXTINF:0,Nick Jr
+#EXTINF:-1,Nick Jr
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06u/index.m3u8
-#EXTINF:0,Nickelodeon
+#EXTINF:-1,Nickelodeon
 #EXTGRP:-
 http://181.13.112.203:8100/play/a04z/index.m3u8
-#EXTINF:0,OGLOBO
+#EXTINF:-1,OGLOBO
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0f3/index.m3u8
-#EXTINF:0,PATAGONIA
+#EXTINF:-1,PATAGONIA
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0fe/index.m3u8
-#EXTINF:0,Pakapaka
+#EXTINF:-1,Pakapaka
 #EXTGRP:-
 http://181.13.112.203:8100/play/a01n/index.m3u8
-#EXTINF:0,Paramount HD
+#EXTINF:-1,Paramount HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02y/index.m3u8
-#EXTINF:0,Playboy
+#EXTINF:-1,Playboy
 #EXTGRP:-
 http://181.13.112.203:8100/play/a032/index.m3u8
-#EXTINF:0,Quiero Musica
+#EXTINF:-1,Quiero Musica
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02n/index.m3u8
-#EXTINF:0,RAI Italia
+#EXTINF:-1,RAI Italia
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02p/index.m3u8
-#EXTINF:0,RT en Espaæol
+#EXTINF:-1,RT en Español
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0ac/index.m3u8
-#EXTINF:0,Rural
+#EXTINF:-1,Rural
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02f/index.m3u8
-#EXTINF:0,Sextreme
+#EXTINF:-1,Sextreme
 #EXTGRP:-
 http://181.13.112.203:8100/play/a034/index.m3u8
-#EXTINF:0,Sony HD
+#EXTINF:-1,Sony HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05d/index.m3u8
-#EXTINF:0,Sony HD
+#EXTINF:-1,Sony HD [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a05d/index.m3u8
-#EXTINF:0,Sony Movies HD
+#EXTINF:-1,Sony Movies HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05k/index.m3u8
-#EXTINF:0,Sony Movies HD
+#EXTINF:-1,Sony Movies HD [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a05k/index.m3u8
-#EXTINF:0,Space HD
+#EXTINF:-1,Space HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02w/index.m3u8
-#EXTINF:0,Space HD
+#EXTINF:-1,Space HD [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a02w/index.m3u8
-#EXTINF:0,Star Channel HD
+#EXTINF:-1,Star Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a079/index.m3u8
-#EXTINF:0,Studio Universal
+#EXTINF:-1,Studio Universal
 #EXTGRP:-
 http://181.13.112.203:8100/play/a022/index.m3u8
-#EXTINF:0,T5 SATELITAL
+#EXTINF:-1,T5 SATELITAL
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0eo/index.m3u8
-#EXTINF:0,TCM
+#EXTINF:-1,TCM
 #EXTGRP:-
 http://181.13.112.203:8100/play/a020/index.m3u8
-#EXTINF:0,TELEMUNDO
+#EXTINF:-1,TELEMUNDO
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0f8/index.m3u8
-#EXTINF:0,TLNovelas
+#EXTINF:-1,TLNovelas
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0ae/index.m3u8
-#EXTINF:0,TN HD
+#EXTINF:-1,TN HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a058/index.m3u8
-#EXTINF:0,TN HD
+#EXTINF:-1,TN HD [Backup]
 #EXTGRP:-
 http://181.10.181.101:15001/play/a097/index.m3u8
-#EXTINF:0,TNT HD
+#EXTINF:-1,TNT HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07d/index.m3u8
-#EXTINF:0,TNT Novelas HD
+#EXTINF:-1,TNT Novelas HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07g/index.m3u8
-#EXTINF:0,TNT Series HD
+#EXTINF:-1,TNT Series HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07e/index.m3u8
-#EXTINF:0,TNT Sports HD
+#EXTINF:-1,TNT Sports HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0bc/index.m3u8
-#EXTINF:0,TNT Sports HD
+#EXTINF:-1,TNT Sports HD [Backup1]
 #EXTGRP:-
 http://181.10.181.101:15001/play/a06z/index.m3u8
-#EXTINF:0,TNT Sports HD
+#EXTINF:-1,TNT Sports HD [Backup2]
 #EXTGRP:-
 http://190.104.67.8:234/play/a06z/index.m3u8
-#EXTINF:0,TV Publica HD
+#EXTINF:-1,TV Publica HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0dg/index.m3u8
-#EXTINF:0,TV Publica HD
+#EXTINF:-1,TV Publica HD [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a056/index.m3u8
-#EXTINF:0,TVE
+#EXTINF:-1,TVE
 #EXTGRP:-
 http://181.13.112.203:8100/play/a072/index.m3u8
-#EXTINF:0,TOONCAT
+#EXTINF:-1,TOONCAT
 #EXTGRP:-
 http://181.10.181.101:15001/play/a0cy/index.m3u8
-#EXTINF:0,Telefe HD
+#EXTINF:-1,Telefe HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06c/index.m3u8
-#EXTINF:0,Telefe HD
+#EXTINF:-1,Telefe HD [Backup1]
 #EXTGRP:-
 http://181.10.123.154:14000/play/a06c/index.m3u8
-#EXTINF:0,Telefe HD
+#EXTINF:-1,Telefe HD [Backup2]
 #EXTGRP:-
 http://200.80.230.124:8000/play/a06c/index.m3u8
-#EXTINF:0,The History Channel HD
+#EXTINF:-1,The History Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05h/index.m3u8
-#EXTINF:0,TyC Sports HD
+#EXTINF:-1,TyC Sports HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02s/index.m3u8
-#EXTINF:0,TyC Sports HD
+#EXTINF:-1,TyC Sports HD [Backup1]
 #EXTGRP:-
 http://200.80.230.124:8000/play/a02s/index.m3u8
-#EXTINF:0,TyC Sports HD
+#EXTINF:-1,TyC Sports HD [Backup2]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a02s/index.m3u8
-#EXTINF:0,USA Network
+#EXTINF:-1,USA Network
 #EXTGRP:-
 http://181.13.112.203:8100/play/a023/index.m3u8
-#EXTINF:0,Universal HD
+#EXTINF:-1,Universal HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05j/index.m3u8
-#EXTINF:0,Venus
+#EXTINF:-1,Venus
 #EXTGRP:-
 http://181.13.112.203:8100/play/a033/index.m3u8
-#EXTINF:0,Volver
+#EXTINF:-1,Volver
 #EXTGRP:-
 http://181.13.112.203:8100/play/a021/index.m3u8
-#EXTINF:0,Warner Channel HD
+#EXTINF:-1,Warner Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05e/index.m3u8
-#EXTINF:0,ciudad magazine
+#EXTINF:-1,ciudad magazine
 #EXTGRP:-
 http://181.13.112.203:8100/play/a02h/index.m3u8
-#EXTINF:0,ciudad magazine
+#EXTINF:-1,ciudad magazine [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a02h/index.m3u8
-#EXTINF:0,el nueve HD
+#EXTINF:-1,el nueve HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a04h/index.m3u8
-#EXTINF:0,el nueve HD
+#EXTINF:-1,el nueve HD [Backup]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a04h/index.m3u8
-#EXTINF:0,el trece HD
+#EXTINF:-1,el trece HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0bg/index.m3u8
-#EXTINF:0,el trece HD
+#EXTINF:-1,el trece HD [Backup]
 #EXTGRP:-
 http://190.104.67.8:234/play/a07b/index.m3u8
