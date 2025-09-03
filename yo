@@ -86,6 +86,8 @@ http://190.123.90.146:8000/play/a039/index.m3u8
 #EXTINF:-1,DeporTV
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06h/index.m3u8
+#EXTINF: -1,Dsports HD
+http://latinostvhd.club:25461/6266787880/3f8087cffc/62550
 #EXTINF:-1,Discovery Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07i/index.m3u8
@@ -377,7 +379,7 @@ http://181.13.112.203:8100/play/a033/index.m3u8
 #EXTINF:-1,Volver
 #EXTGRP:-
 http://181.13.112.203:8100/play/a021/index.m3u8
-#EXTINF: -1 Volver HD
+#EXTINF: -1,Volver HD
 http://latinostvhd.club:25461/6266787880/3f8087cffc/60140
 #EXTINF:-1,Warner Channel HD
 #EXTGRP:-
@@ -400,4 +402,5 @@ http://181.13.112.203:8100/play/a0bg/index.m3u8
 #EXTINF:-1,el trece HD [Backup]
 #EXTGRP:-
 http://190.104.67.8:234/play/a07b/index.m3u8
+
 
