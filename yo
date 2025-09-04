@@ -317,6 +317,9 @@ http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:-1,TN HD [Backup]
 #EXTGRP:-
 http://181.10.181.101:15001/play/a097/index.m3u8
+#EXTINF:-1,TN HD [Backup1]
+#EXTGRP:-
+http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/72756
 #EXTINF:-1,TNT HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07d/index.m3u8
@@ -407,3 +410,4 @@ http://190.123.90.146:8000/play/a00n/index.m3u8
 #EXTINF:-1,el trece HD [Backup1]
 #EXTGRP:-
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
