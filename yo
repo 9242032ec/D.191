@@ -359,6 +359,9 @@ http://181.10.123.154:14000/play/a06c/index.m3u8
 #EXTINF:-1,Telefe HD [Backup2]
 #EXTGRP:-
 http://200.80.230.124:8000/play/a06c/index.m3u8
+#EXTINF:-1,Telefe HD [Backup3]
+#EXTGRP:-
+http://latinostvhd.club:25461/6266787880/3f8087cffc/29863
 #EXTINF:-1,The History Channel HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a05h/index.m3u8
@@ -371,6 +374,9 @@ http://200.80.230.124:8000/play/a02s/index.m3u8
 #EXTINF:-1,TyC Sports HD [Backup2]
 #EXTGRP:-
 http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1,TyC Sports HD [Backup3]
+#EXTGRP:-
+http://latinostvhd.club:25461/6266787880/3f8087cffc/69033
 #EXTINF:-1,USA Network
 #EXTGRP:-
 http://181.13.112.203:8100/play/a023/index.m3u8
@@ -409,5 +415,4 @@ http://181.13.112.203:8100/play/a0bg/index.m3u8
 http://190.123.90.146:8000/play/a00n/index.m3u8
 #EXTINF:-1,el trece HD [Backup1]
 #EXTGRP:-
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
+http://latinostvhd.club:25461/6266787880/3f8087cffc/31258
