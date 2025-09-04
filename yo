@@ -404,3 +404,6 @@ http://181.13.112.203:8100/play/a0bg/index.m3u8
 #EXTINF:-1,el trece HD [Backup]
 #EXTGRP:-
 http://190.123.90.146:8000/play/a00n/index.m3u8
+#EXTINF:-1,el trece HD [Backup1]
+#EXTGRP:-
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
