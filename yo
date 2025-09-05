@@ -152,12 +152,6 @@ http://181.13.112.203:8100/play/a06z/index.m3u8
 #EXTINF:-1,Eventos HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a0af/index.m3u8
-#EXTINF:-1,Eventos HD [Backup1]
-#EXTGRP:-
-http://200.80.230.124:8000/play/a0bf/index.m3u8
-#EXTINF:-1,Eventos HD [Backup2]
-#EXTGRP:-
-http://143.0.67.77:8000/play/a0af/index.m3u8
 #EXTINF:-1,El Gourmet
 #EXTGRP:-
 http://181.13.112.203:8100/play/a06w/index.m3u8
@@ -416,5 +410,6 @@ http://190.123.90.146:8000/play/a00n/index.m3u8
 #EXTINF:-1,el trece HD [Backup1]
 #EXTGRP:-
 http://latinostvhd.club:25461/6266787880/3f8087cffc/31258
+
 
 
