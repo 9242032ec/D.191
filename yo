@@ -316,7 +316,7 @@ http://181.13.112.203:8100/play/a0ae/index.m3u8
 http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:-1,TN HD [Backup]
 #EXTGRP:-
-http://181.10.181.101:15001/play/a097/index.m3u8
+http://200.80.230.124:8000/play/a0a6/index.m3u8
 #EXTINF:-1,TN HD [Backup1]
 #EXTGRP:-
 http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/72756
@@ -334,7 +334,7 @@ http://181.13.112.203:8100/play/a07e/index.m3u8
 http://181.13.112.203:8100/play/a0bc/index.m3u8
 #EXTINF:-1,TNT Sports HD [Backup1]
 #EXTGRP:-
-http://181.10.181.101:15001/play/a06z/index.m3u8
+http://200.80.230.124:8000/play/a0bk/index.m3u8
 #EXTINF:-1,TNT Sports HD [Backup2]
 #EXTGRP:-
 http://190.104.67.8:234/play/a06z/index.m3u8
@@ -416,4 +416,5 @@ http://190.123.90.146:8000/play/a00n/index.m3u8
 #EXTINF:-1,el trece HD [Backup1]
 #EXTGRP:-
 http://latinostvhd.club:25461/6266787880/3f8087cffc/31258
+
 
