@@ -400,7 +400,7 @@ http://181.13.112.203:8100/play/a04h/index.m3u8
 http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1,el trece HD
 #EXTGRP:-
-http://181.13.112.203:8100/play/a0bg/index.m3u8
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1,el trece HD [Backup]
 #EXTGRP:-
 http://190.123.90.146:8000/play/a00n/index.m3u8
