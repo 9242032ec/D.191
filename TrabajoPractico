@@ -310,7 +310,7 @@ http://190.123.90.146:8000/play/a032/index.m3u8
 http://200.80.230.124:8000/play/a0a6/index.m3u8
 #EXTINF:-1,TN HD [Backup1]
 #EXTGRP:-
-http://satk.pro:2082/2025XChinaxPor2025/56yCCTvdyF5H/72756
+http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1,TNT HD
 #EXTGRP:-
 http://181.13.112.203:8100/play/a07d/index.m3u8
