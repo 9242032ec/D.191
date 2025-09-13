@@ -1,4 +1,12 @@
 #EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-ALLOW-CACHE:NO
+# Optimizado para ultra estabilidad y bajo delay sin modificar URLs ni orden
+
+#EXTM3U
 #EXTINF:-1,26TV
 http://181.13.112.203:8100/play/a01r/index.m3u8
 #EXTINF:-1,A&E HD
