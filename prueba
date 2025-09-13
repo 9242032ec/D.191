@@ -1,565 +1,271 @@
 #EXTM3U
 #EXTINF:-1,26TV
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Transmisión en vivo de 26TV. Consultar www.gatotv.com para horarios específicos.
 http://181.13.112.203:8100/play/a01r/index.m3u8
 #EXTINF:-1,A&E HD
-#EXTGRP:-
-#PROGRAM:-1,Series y documentales|Programación de series y documentales en A&E HD. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a05i/index.m3u8
 #EXTINF:-1,A24
-#EXTGRP:-
-#PROGRAM:-1,Noticiero en vivo|Últimas noticias de Argentina en A24. Vea www.a24.com para más detalles.
 http://181.13.112.203:8100/play/a01o/index.m3u8
 #EXTINF:-1,A24 [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Noticiero en vivo|Últimas noticias de Argentina en A24. Vea www.a24.com para más detalles.
 http://181.13.252.102:8000/play/a01o/index.m3u8
 #EXTINF:-1,AM Sports
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Contenido deportivo en AM Sports. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a01v/index.m3u8
 #EXTINF:-1,AMC
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Programación de películas y series en AMC. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a01z/index.m3u8
 #EXTINF:-1,ARGENTINISIMA
-#EXTGRP:-
-#PROGRAM:-1,Folklore y música|Programas de música y cultura argentina. Consultar www.gatotv.com para detalles.
 http://181.13.112.203:8100/play/a0ey/index.m3u8
 #EXTINF:-1,AXN HD
-#EXTGRP:-
-#PROGRAM:-1,Series de acción|Series y películas de acción en AXN HD. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a05f/index.m3u8
 #EXTINF:-1,Adult swim HD
-#EXTGRP:-
-#PROGRAM:-1,Animación para adultos|Programas de animación en Adult Swim HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0dd/index.m3u8
-#EXTINF:-1,America TV
-#EXTGRP:-
-#PROGRAM:-1,América TV en vivo|Programas en vivo de América TV. Consulte www.americatv.com.ar para detalles.
-http://181.13.252.102:8000/play/a055/index.m3u8
 #EXTINF:-1,America TV HD
-#EXTGRP:-
-#PROGRAM:-1,América TV en vivo|Programas en vivo de América TV. Consulte www.americatv.com.ar para detalles.
 http://181.13.112.203:8100/play/a055/index.m3u8
+#EXTINF:-1,America TV HD [Backup]
+http://181.13.252.102:8000/play/a055/index.m3u8
 #EXTINF:-1,BANDEIRANTES
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo de Bandeirantes. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0f2/index.m3u8
 #EXTINF:-1,Baby TV
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Contenido para niños en Baby TV. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02e/index.m3u8
 #EXTINF:-1,C5N
-#EXTGRP:-
-#PROGRAM:-1,Noticias en vivo|Cobertura de noticias en C5N. Visite www.flow.com.ar para la grilla completa.
 http://181.13.112.203:8100/play/a01p/index.m3u8
 #EXTINF:-1,CNN en Español
-#EXTGRP:-
-#PROGRAM:-1,Noticias internacionales|Noticias globales en CNN en Español. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a054/index.m3u8
 #EXTINF:-1,Canal a
-#EXTGRP:-
-#PROGRAM:-1,Música y entretenimiento|Programas de música y variedades. Visite www.movistar.com.ar para detalles.
 http://181.13.112.203:8100/play/a09j/index.m3u8
 #EXTINF:-1,Canal de la Ciudad
-#EXTGRP:-
-#PROGRAM:-1,Programas locales|Contenido de la Ciudad de Buenos Aires. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06e/index.m3u8
-#EXTINF:-1,Cartoon Network
-#EXTGRP:-
-#PROGRAM:-1,Animación infantil|Series animadas en Cartoon Network. Visite www.gatotv.com para horarios.
-http://181.13.252.102:8000/play/a075/index.m3u8
 #EXTINF:-1,Cartoon Network HD
-#EXTGRP:-
-#PROGRAM:-1,Animación infantil|Series animadas en Cartoon Network HD. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a075/index.m3u8
+#EXTINF:-1,Cartoon Network HD [Backup]
+http://181.13.252.102:8000/play/a075/index.m3u8
 #EXTINF:-1,Cine.AR
-#EXTGRP:-
-#PROGRAM:-1,Cine argentino|Películas y series argentinas en Cine.AR. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a024/index.m3u8
-#EXTINF:-1,Cinecanal
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas de Hollywood en Cinecanal. Visite www.movistar.com.ar para horarios.
-http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1,Cinecanal HD
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas de Hollywood en Cinecanal HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a07b/index.m3u8
+#EXTINF:-1,Cinecanal HD [Backup]
+http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1,Cinemax
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Cinemax. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a04s/index.m3u8
 #EXTINF:-1,Cinemax [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Cinemax. Visite www.gatotv.com para horarios.
 http://181.13.252.102:8000/play/a04s/index.m3u8
-#EXTINF:-1,Comedy Central
-#EXTGRP:-
-#PROGRAM:-1,Comedia|Programas y series de comedia en Comedy Central. Consultar www.movistar.com.ar para horarios.
-http://181.13.252.102:8000/play/a02x/index.m3u8
 #EXTINF:-1,Comedy Central HD
-#EXTGRP:-
-#PROGRAM:-1,Comedia|Programas y series de comedia en Comedy Central HD. Consultar www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02x/index.m3u8
+#EXTINF:-1,Comedy Central HD [Backup]
+http://181.13.252.102:8000/play/a02x/index.m3u8
 #EXTINF:-1,Cronica
-#EXTGRP:-
-#PROGRAM:-1,Noticias y variedades|Noticias y programas en Crónica. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a01q/index.m3u8
 #EXTINF:-1,Canal 12 CBA
-#EXTGRP:-
-#PROGRAM:-1,Programación local|Contenido regional de Córdoba. Consultar www.gatotv.com para horarios.
 http://190.123.90.146:8000/play/a039/index.m3u8
 #EXTINF:-1,DeporTV
-#EXTGRP:-
-#PROGRAM:-1,Deportes|Programas deportivos en DeporTV. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a06h/index.m3u8
 #EXTINF:-1,Discovery Channel HD
-#EXTGRP:-
-#PROGRAM:-1,Documentales|Documentales en Discovery Channel HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a07i/index.m3u8
 #EXTINF:-1,Discovery H&H HD
-#EXTGRP:-
-#PROGRAM:-1,Hogar y estilo|Programas de hogar y estilo en Discovery H&H HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a07h/index.m3u8
 #EXTINF:-1,Discovery Kids
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Contenido para niños en Discovery Kids. Visite www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06t/index.m3u8
 #EXTINF:-1,Discovery Science
-#EXTGRP:-
-#PROGRAM:-1,Ciencia y tecnología|Programas educativos en Discovery Science. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02k/index.m3u8
 #EXTINF:-1,Discovery Theater HD
-#EXTGRP:-
-#PROGRAM:-1,Documentales|Documentales en Discovery Theater HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02z/index.m3u8
 #EXTINF:-1,Discovery Turbo
-#EXTGRP:-
-#PROGRAM:-1,Motor y tecnología|Programas de autos en Discovery Turbo. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a01w/index.m3u8
 #EXTINF:-1,Discovery World HD
-#EXTGRP:-
-#PROGRAM:-1,Documentales|Documentales en Discovery World HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a031/index.m3u8
 #EXTINF:-1,Disney Channel HD
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Series y películas para niños en Disney Channel HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02r/index.m3u8
 #EXTINF:-1,Disney Junior
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Contenido para niños pequeños en Disney Junior. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a04y/index.m3u8
 #EXTINF:-1,E! Entertainment
-#EXTGRP:-
-#PROGRAM:-1,Entretenimiento|Programas de moda y entretenimiento en E! Entertainment. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a050/index.m3u8
 #EXTINF:-1,EL FOLKLORICO TV
-#EXTGRP:-
-#PROGRAM:-1,Música folklórica|Programas de música folklórica argentina. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0em/index.m3u8
 #EXTINF:-1,EL GARAGE
-#EXTGRP:-
-#PROGRAM:-1,Automovilismo|Programas de autos en El Garage. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a0f0/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.13.112.203:8100/play/a05a/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en ESPN 2 HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a059/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en ESPN 3 HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a05b/index.m3u8
 #EXTINF:-1,ESPN 4 HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en ESPN 4 HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a076/index.m3u8
-#EXTINF:-1,ESPN HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en ESPN HD. Visite www.flow.com.ar para horarios.
-http://181.13.112.203:8100/play/a05a/index.m3u8
 #EXTINF:-1,ESPN Premium HD
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en ESPN Premium HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a078/index.m3u8
 #EXTINF:-1,ESPN Premium HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en ESPN Premium HD. Visite www.flow.com.ar para horarios.
 http://181.10.123.154:14000/play/a078/index.m3u8
 #EXTINF:-1,ESPN Premium HD [Backup2]
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en ESPN Premium HD. Visite www.flow.com.ar para horarios.
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1,El Canal de las Estrellas
-#EXTGRP:-
-#PROGRAM:-1,Telenovelas|Telenovelas y series en El Canal de las Estrellas. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06z/index.m3u8
 #EXTINF:-1,Eventos HD
-#EXTGRP:-
-#PROGRAM:-1,Eventos especiales|Transmisiones especiales en Eventos HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0af/index.m3u8
 #EXTINF:-1,El Gourmet
-#EXTGRP:-
-#PROGRAM:-1,Cocina y gastronomía|Programas de cocina en El Gourmet. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06w/index.m3u8
 #EXTINF:-1,Encuentro
-#EXTGRP:-
-#PROGRAM:-1,Programas educativos|Contenido educativo en Encuentro. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a01m/index.m3u8
 #EXTINF:-1,Europa Europa
-#EXTGRP:-
-#PROGRAM:-1,Cine europeo|Películas y series europeas en Europa Europa. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a06v/index.m3u8
 #EXTINF:-1,FX HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido de acción y drama en FX HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02v/index.m3u8
 #EXTINF:-1,Film & Arts HD
-#EXTGRP:-
-#PROGRAM:-1,Arte y cultura|Programas culturales en Film & Arts HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a030/index.m3u8
+#EXTINF:-1,Fox Sports HD
+http://181.13.112.203:8100/play/a07j/index.m3u8
 #EXTINF:-1,Fox Sports 2 HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en Fox Sports 2 HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a05c/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en Fox Sports 3 HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a02t/index.m3u8
-#EXTINF:-1,Fox Sports HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en Fox Sports HD. Visite www.flow.com.ar para horarios.
-http://181.13.112.203:8100/play/a07j/index.m3u8
 #EXTINF:-1,HBO FHD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Películas y series premium en HBO FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a022/index.m3u8
 #EXTINF:-1,HBO 2 FHD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Películas y series premium en HBO 2 FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a01k/index.m3u8
 #EXTINF:-1,HBO Plus FHD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Películas y series premium en HBO Plus FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a01v/index.m3u8
 #EXTINF:-1,HBO Pop FHD
-#EXTGRP:-
-#PROGRAM:-1,Entretenimiento|Contenido ligero en HBO Pop FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a01j/index.m3u8
 #EXTINF:-1,HBO Family FHD
-#EXTGRP:-
-#PROGRAM:-1,Programas familiares|Contenido familiar en HBO Family FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a03d/index.m3u8
 #EXTINF:-1,HBO Mundi FHD
-#EXTGRP:-
-#PROGRAM:-1,Cine internacional|Cine internacional en HBO Mundi FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a027/index.m3u8
 #EXTINF:-1,HBO Signature SD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Contenido premium en HBO Signature SD. Visite www.directv.com.ar para horarios.
 http://181.13.112.203:8100/play/a02c/index.m3u8
 #EXTINF:-1,HBO Xtreme FHD
-#EXTGRP:-
-#PROGRAM:-1,Acción y aventura|Películas de acción en HBO Xtreme FHD. Visite www.directv.com.ar para horarios.
 http://190.123.90.146:8000/play/a01i/index.m3u8
 #EXTINF:-1,HGTV
-#EXTGRP:-
-#PROGRAM:-1,Hogar y decoración|Programas de decoración en HGTV. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02j/index.m3u8
 #EXTINF:-1,HTV
-#EXTGRP:-
-#PROGRAM:-1,Música latina|Videos musicales en HTV. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02o/index.m3u8
 #EXTINF:-1,History 2
-#EXTGRP:-
-#PROGRAM:-1,Documentales históricos|Documentales en History 2. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a0ab/index.m3u8
 #EXTINF:-1,La Nacion TV
-#EXTGRP:-
-#PROGRAM:-1,Noticias|Noticias en La Nación TV. Visite www.flow.com.ar para horarios.
 http://200.80.230.124:8000/play/a01s/index.m3u8
 #EXTINF:-1,La Nacion TV [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Noticias|Noticias en La Nación TV. Visite www.flow.com.ar para horarios.
 http://181.13.252.102:8000/play/a01s/index.m3u8
 #EXTINF:-1,Lifetime
-#EXTGRP:-
-#PROGRAM:-1,Entretenimiento femenino|Programas para mujeres en Lifetime. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06n/index.m3u8
 #EXTINF:-1,MTV
-#EXTGRP:-
-#PROGRAM:-1,Música y entretenimiento|Videos musicales y programas en MTV. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02m/index.m3u8
 #EXTINF:-1,MTV 00
-#EXTGRP:-
-#PROGRAM:-1,Música moderna|Videos musicales en MTV 00. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a053/index.m3u8
 #EXTINF:-1,Metro
-#EXTGRP:-
-#PROGRAM:-1,Noticias locales|Noticias de Buenos Aires en Metro. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a02g/index.m3u8
 #EXTINF:-1,NVS CANAL 10
-#EXTGRP:-
-#PROGRAM:-1,Programación regional|Contenido regional en NVS Canal 10. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0f7/index.m3u8
 #EXTINF:-1,Nat Geo HD
-#EXTGRP:-
-#PROGRAM:-1,Documentales|Documentales en Nat Geo HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05g/index.m3u8
 #EXTINF:-1,Nick Jr
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Contenido para niños pequeños en Nick Jr. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a06u/index.m3u8
 #EXTINF:-1,Nickelodeon
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Series y programas para niños en Nickelodeon. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a04z/index.m3u8
 #EXTINF:-1,OGLOBO
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo de OGlobo. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0f3/index.m3u8
 #EXTINF:-1,PATAGONIA
-#EXTGRP:-
-#PROGRAM:-1,Programación regional|Contenido regional en Patagonia. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0fe/index.m3u8
 #EXTINF:-1,Pakapaka
-#EXTGRP:-
-#PROGRAM:-1,Programas infantiles|Contenido educativo para niños en Pakapaka. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a01n/index.m3u8
 #EXTINF:-1,Paramount HD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Contenido en Paramount HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02y/index.m3u8
 #EXTINF:-1,Playboy
-#EXTGRP:-
-#PROGRAM:-1,Contenido para adultos|Programación para adultos en Playboy. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a032/index.m3u8
 #EXTINF:-1,Quiero Musica
-#EXTGRP:-
-#PROGRAM:-1,Música|Videos musicales en Quiero Música. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02n/index.m3u8
 #EXTINF:-1,RAI Italia
-#EXTGRP:-
-#PROGRAM:-1,Programas italianos|Contenido en italiano en RAI Italia. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02p/index.m3u8
 #EXTINF:-1,RT en Español
-#EXTGRP:-
-#PROGRAM:-1,Noticias internacionales|Noticias globales en RT en Español. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0ac/index.m3u8
 #EXTINF:-1,Rural
-#EXTGRP:-
-#PROGRAM:-1,Programas rurales|Contenido sobre agricultura en Rural. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02f/index.m3u8
 #EXTINF:-1,Sextreme
-#EXTGRP:-
-#PROGRAM:-1,Contenido para adultos|Programación para adultos en Sextreme. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a034/index.m3u8
 #EXTINF:-1,Sony HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en Sony HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05d/index.m3u8
 #EXTINF:-1,Sony HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en Sony HD. Visite www.movistar.com.ar para horarios.
 http://181.13.252.102:8000/play/a05d/index.m3u8
 #EXTINF:-1,Sony Movies HD
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Sony Movies HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05k/index.m3u8
 #EXTINF:-1,Sony Movies HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Sony Movies HD. Visite www.movistar.com.ar para horarios.
 http://181.13.252.102:8000/play/a05k/index.m3u8
 #EXTINF:-1,Space HD
-#EXTGRP:-
-#PROGRAM:-1,Películas de acción|Películas y series de acción en Space HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a02w/index.m3u8
 #EXTINF:-1,Space HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Películas de acción|Películas y series de acción en Space HD. Visite www.movistar.com.ar para horarios.
 http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1,Star Channel HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en Star Channel HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a079/index.m3u8
 #EXTINF:-1,Studio Universal
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Studio Universal. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a022/index.m3u8
 #EXTINF:-1,T5 SATELITAL
-#EXTGRP:-
-#PROGRAM:-1,Programación regional|Contenido regional en T5 Satelital. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0eo/index.m3u8
 #EXTINF:-1,TCM
-#EXTGRP:-
-#PROGRAM:-1,Películas clásicas|Películas clásicas en TCM. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a020/index.m3u8
 #EXTINF:-1,TELEMUNDO
-#EXTGRP:-
-#PROGRAM:-1,Telenovelas|Telenovelas y programas en Telemundo. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0f8/index.m3u8
 #EXTINF:-1,TLNovelas
-#EXTGRP:-
-#PROGRAM:-1,Telenovelas|Telenovelas en TLNovelas. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a0ae/index.m3u8
 #EXTINF:-1,TN HD
-#EXTGRP:-
-#PROGRAM:-1,Noticias|Noticias en TN HD. Visite www.flow.com.ar para horarios.
 http://190.104.67.2:234/play/a097/index.m3u8
 #EXTINF:-1,TN HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Noticias|Noticias en TN HD. Visite www.flow.com.ar para horarios.
 http://200.80.230.124:8000/play/a0a6/index.m3u8
-#EXTINF:-1,TN HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,Noticias|Noticias en TN HD. Visite www.flow.com.ar para horarios.
-http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1,TNT HD
-#EXTGRP:-
-#PROGRAM:-1,Películas y series|Contenido en TNT HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a07d/index.m3u8
 #EXTINF:-1,TNT Novelas HD
-#EXTGRP:-
-#PROGRAM:-1,Telenovelas|Telenovelas en TNT Novelas HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a07g/index.m3u8
 #EXTINF:-1,TNT Series HD
-#EXTGRP:-
-#PROGRAM:-1,Series|Series en TNT Series HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a07e/index.m3u8
 #EXTINF:-1,TNT Sports HD
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en TNT Sports HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a0bc/index.m3u8
 #EXTINF:-1,TNT Sports HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en TNT Sports HD. Visite www.flow.com.ar para horarios.
 http://200.80.230.124:8000/play/a0bk/index.m3u8
 #EXTINF:-1,TNT Sports HD [Backup2]
-#EXTGRP:-
-#PROGRAM:-1,Fútbol en vivo|Partidos de fútbol en TNT Sports HD. Visite www.flow.com.ar para horarios.
 http://190.104.67.8:234/play/a06z/index.m3u8
 #EXTINF:-1,TV Publica HD
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo en TV Pública HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a0dg/index.m3u8
 #EXTINF:-1,TV Publica HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo en TV Pública HD. Consultar www.gatotv.com para horarios.
 http://181.13.252.102:8000/play/a056/index.m3u8
 #EXTINF:-1,TVE
-#EXTGRP:-
-#PROGRAM:-1,Programas españoles|Contenido en español en TVE. Visite www.rtve.es para horarios.
 http://181.13.112.203:8100/play/a072/index.m3u8
 #EXTINF:-1,TOONCAT
-#EXTGRP:-
-#PROGRAM:-1,Animación|Programas animados en Tooncat. Consultar www.gatotv.com para horarios.
 http://179.51.136.19:8000/play/a0wh/index.m3u8
 #EXTINF:-1,Telefe HD
-#EXTGRP:-
-#PROGRAM:-1,Telefe en vivo|Programación en vivo de Telefe. Consulte www.mi.tv para detalles.
 http://181.13.112.203:8100/play/a06c/index.m3u8
-#EXTINF:-1,Telefe HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,Telefe en vivo|Programación en vivo de Telefe. Consulte www.mi.tv para detalles.
-http://181.10.123.154:14000/play/a06c/index.m3u8
-#EXTINF:-1,Telefe HD [Backup2]
-#EXTGRP:-
-#PROGRAM:-1,Telefe en vivo|Programación en vivo de Telefe. Consulte www.mi.tv para detalles.
+#EXTINF:-1,Telefe HD [Backup]
 http://200.80.230.124:8000/play/a06c/index.m3u8
-#EXTINF:-1,Telefe HD [Backup3]
-#EXTGRP:-
-#PROGRAM:-1,Telefe en vivo|Programación en vivo de Telefe. Consulte www.mi.tv para detalles.
-http://latinostvhd.club:25461/6266787880/3f8087cffc/29863
 #EXTINF:-1,The History Channel HD
-#EXTGRP:-
-#PROGRAM:-1,Documentales históricos|Documentales en The History Channel HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05h/index.m3u8
 #EXTINF:-1,TyC Sports HD
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en TyC Sports HD. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a02s/index.m3u8
 #EXTINF:-1,TyC Sports HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en TyC Sports HD. Visite www.flow.com.ar para horarios.
 http://200.80.230.124:8000/play/a02s/index.m3u8
 #EXTINF:-1,TyC Sports HD [Backup2]
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en TyC Sports HD. Visite www.flow.com.ar para horarios.
 http://181.13.252.102:8000/play/a02s/index.m3u8
-#EXTINF:-1,TyC Sports HD [Backup3]
-#EXTGRP:-
-#PROGRAM:-1,Deportes en vivo|Eventos deportivos en TyC Sports HD. Visite www.flow.com.ar para horarios.
-http://latinostvhd.club:25461/6266787880/3f8087cffc/69033
 #EXTINF:-1,USA Network
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en USA Network. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a023/index.m3u8
 #EXTINF:-1,Universal HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en Universal HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05j/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY HD
-#EXTGRP:-
-#PROGRAM:-1,Comedia|Series de comedia en Universal Comedy HD. Consultar www.gatotv.com para horarios.
 http://45.171.64.30:8800/play/a06b
 #EXTINF:-1,UNIVERSAL CRIME HD
-#EXTGRP:-
-#PROGRAM:-1,Series de crimen|Series de crimen en Universal Crime HD. Consultar www.gatotv.com para horarios.
 http://45.171.64.30:8800/play/a06a
 #EXTINF:-1,UNIVERSAL PREMIERE HD
-#EXTGRP:-
-#PROGRAM:-1,Series premium|Series en Universal Premiere HD. Consultar www.gatotv.com para horarios.
 http://45.171.64.30:8800/play/a067
 #EXTINF:-1,UNIVERSAL REALITY HD
-#EXTGRP:-
-#PROGRAM:-1,Reality shows|Programas de reality en Universal Reality HD. Consultar www.gatotv.com para horarios.
 http://45.171.64.30:8800/play/a069
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-#EXTGRP:-
-#PROGRAM:-1,Películas|Películas en Universal Cinema Este HD. Consultar www.gatotv.com para horarios.
 http://45.171.64.30:8800/play/a05f
 #EXTINF:-1,Venus
-#EXTGRP:-
-#PROGRAM:-1,Contenido para adultos|Programación para adultos en Venus. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a033/index.m3u8
 #EXTINF:-1,Volver
-#EXTGRP:-
-#PROGRAM:-1,Series y películas clásicas|Contenido clásico argentino en Volver. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a021/index.m3u8
-#EXTINF:-1,Volver HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas clásicas|Contenido clásico argentino en Volver HD. Visite www.flow.com.ar para horarios.
-http://latinostvhd.club:25461/6266787880/3f8087cffc/60140
 #EXTINF:-1,Warner Channel HD
-#EXTGRP:-
-#PROGRAM:-1,Series y películas|Contenido en Warner Channel HD. Visite www.movistar.com.ar para horarios.
 http://181.13.112.203:8100/play/a05e/index.m3u8
 #EXTINF:-1,ciudad magazine
-#EXTGRP:-
-#PROGRAM:-1,Entretenimiento|Programas de entretenimiento en Ciudad Magazine. Visite www.flow.com.ar para horarios.
 http://181.13.112.203:8100/play/a02h/index.m3u8
 #EXTINF:-1,ciudad magazine [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Entretenimiento|Programas de entretenimiento en Ciudad Magazine. Visite www.flow.com.ar para horarios.
 http://181.13.252.102:8000/play/a02h/index.m3u8
 #EXTINF:-1,el nueve HD
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo en El Nueve HD. Consultar www.gatotv.com para horarios.
 http://181.13.112.203:8100/play/a04h/index.m3u8
 #EXTINF:-1,el nueve HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,Programación en vivo|Contenido en vivo en El Nueve HD. Consultar www.gatotv.com para horarios.
 http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1,el trece HD
-#EXTGRP:-
-#PROGRAM:-1,El Trece en vivo|Programación en vivo de El Trece. Visite www.mi.tv para detalles.
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1,el trece HD [Backup]
-#EXTGRP:-
-#PROGRAM:-1,El Trece en vivo|Programación en vivo de El Trece. Visite www.mi.tv para detalles.
 http://200.80.230.124:8000/play/a06d/index.m3u8
-#EXTINF:-1,el trece HD [Backup1]
-#EXTGRP:-
-#PROGRAM:-1,El Trece en vivo|Programación en vivo de El Trece. Visite www.mi.tv para detalles.
-http://190.104.67.2:234/play/a07b/index.m3u8
