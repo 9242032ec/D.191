@@ -83,28 +83,18 @@ http://181.13.112.203:8100/play/a0em/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a0f0/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN HD
 http://200.80.230.124:8000/play/a0ab/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ESPN HD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/128754
-#EXTINF:-1,ESPN 2 HD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/163698
 #EXTINF:-1,ESPN 2 HD
 http://200.80.230.124:8000/play/a0ac/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN 3 HD
 http://200.80.230.124:8000/play/a0ad/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN 4 HD
 http://181.13.112.203:8100/play/a076/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ESPN 4 HD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/282345
 #EXTINF:-1,ESPN Premium HD
 http://181.13.112.203:8100/play/a078/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN Premium HD [OP 2]
 http://190.104.67.2:234/play/a086/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN Premium HD [OP 3]
 http://181.13.252.102:8000/play/a078/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ESPN Premium SD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/163702
-#EXTINF:-1,ESPN Premium HD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/61284
 #EXTINF:-1,El Canal de las Estrellas
 http://181.13.112.203:8100/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Eventos HD
@@ -231,10 +221,6 @@ http://190.104.67.8:234/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a0bc/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TNT Sports HD [OP 3]
 http://190.104.67.2:234/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TNT Sports SD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/135707
-#EXTINF:-1,TNT Sports HD [MagisTV]
-http://latinostvhd.club:25461/6266787880/3f8087cffc/42440
 #EXTINF:-1,TV Publica HD
 http://200.80.230.123:8000/play/a0a8/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TV Publica HD [OP 2]
