@@ -1,0 +1,164 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",13 C
+http://200.95.184.123:9002/play/a0pz
+#EXTINF:-1 group-title="-",A&E HD
+http://200.95.184.123:9002/play/aehd
+#EXTINF:-1 group-title="-",AMC HD
+http://200.95.184.123:9002/play/a056
+#EXTINF:-1 group-title="-",ATRES SERIES HD
+http://200.95.184.123:9002/play/a0tj
+#EXTINF:-1 group-title="-",AXN HD
+http://200.95.184.123:9002/play/a06f
+#EXTINF:-1 group-title="-",Adult Swim
+http://200.95.184.123:9002/play/a0kz
+#EXTINF:-1 group-title="-" tvg-id="animalplanethd",Animal Planet HD
+http://200.95.184.123:9002/play/animalplanethd
+#EXTINF:-1 group-title="-",CHV HD
+http://200.95.184.123:9002/play/a0k9
+#EXTINF:-1 group-title="-",CNN Chile
+http://200.95.184.123:9002/play/a0w7
+#EXTINF:-1 group-title="-",Canal 13 HD
+http://200.95.184.123:9002/play/a07a
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+http://200.95.184.123:9002/play/a07d
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://200.95.184.123:9002/play/a05i
+#EXTINF:-1 group-title="-",Cinemax HD
+http://200.95.184.123:9002/play/a0sm
+#EXTINF:-1 group-title="-",Comedy Central HD 
+http://200.95.184.123:9002/play/comedycentralhd
+#EXTINF:-1 group-title="-",DHE HD
+http://200.95.184.123:9002/play/a0dz
+#EXTINF:-1 group-title="-",DISCOVERY ID
+http://200.95.184.123:9002/play/idhd
+#EXTINF:-1 group-title="-",DW Espaæol
+http://200.95.184.123:9002/play/a0w4
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://200.95.184.123:9002/play/a0al
+#EXTINF:-1 group-title="-",Discovery HD
+http://200.95.184.123:9002/play/a0e1
+#EXTINF:-1 group-title="-",Discovery Kids
+http://200.95.184.123:9002/play/a0wq
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://200.95.184.123:9002/play/a0am
+#EXTINF:-1 group-title="-",Discovery World HD
+http://200.95.184.123:9002/play/a0l1
+#EXTINF:-1 group-title="-",Disney HD
+http://200.95.184.123:9002/play/disneyhd
+#EXTINF:-1 group-title="-",Disney Junior
+http://200.95.184.123:9002/play/a0vx
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://200.95.184.123:9002/play/a06j
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://200.95.184.123:9002/play/espn3hd
+#EXTINF:-1 group-title="-",ESPN EXTRA HD
+http://200.95.184.123:9002/play/a05e
+#EXTINF:-1 group-title="-",ESPN HD
+http://200.95.184.123:9002/play/a0ax
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://200.95.184.123:9002/play/a0uh
+#EXTINF:-1 group-title="-",ETC TV
+http://200.95.184.123:9002/play/a0w1
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://200.95.184.123:9002/play/a074
+#EXTINF:-1 group-title="-",FOX Sports 2 HD
+http://200.95.184.123:9002/play/a0at
+#EXTINF:-1 group-title="-",FX HD
+http://200.95.184.123:9002/play/a0aw
+#EXTINF:-1 group-title="-",Fox Sports 1 HD
+http://200.95.184.123:9002/play/a07k
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+http://200.95.184.123:9002/play/foxsports3hd
+#EXTINF:-1 group-title="-",GOLDEN
+http://200.95.184.123:9002/play/a0ll
+#EXTINF:-1 group-title="-",HBO 2
+http://200.95.184.123:9002/play/a0w9
+#EXTINF:-1 group-title="-",HBO Family HD
+http://200.95.184.123:9002/play/a0k3
+#EXTINF:-1 group-title="-",HBO HD
+http://200.95.184.123:9002/play/a08o
+#EXTINF:-1 group-title="-",HBO POP HD
+http://200.95.184.123:9002/play/a0g8
+#EXTINF:-1 group-title="-",HBO Plus
+http://200.95.184.123:9002/play/a0wa
+#EXTINF:-1 group-title="-",HBO Xtreme
+http://200.95.184.123:9002/play/a0k0
+#EXTINF:-1 group-title="-",HOLA TV HD
+http://200.95.184.123:9002/play/a0th
+#EXTINF:-1 group-title="-",History Channel HD
+http://200.95.184.123:9002/play/a06b
+#EXTINF:-1 group-title="-",La Red HD
+http://200.95.184.123:9002/play/a0se
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://200.95.184.123:9002/play/a0wo
+#EXTINF:-1 group-title="-",MEGA HD
+http://200.95.184.123:9002/play/a08g
+#EXTINF:-1 group-title="-",MM HITS
+http://200.95.184.123:9002/play/a0wk
+#EXTINF:-1 group-title="-",MM K-POP
+http://200.95.184.123:9002/play/a0wl
+#EXTINF:-1 group-title="-",MM ROMANTICA
+http://200.95.184.123:9002/play/a0wj
+#EXTINF:-1 group-title="-",MTV HD
+http://200.95.184.123:9002/play/a0jg
+#EXTINF:-1 group-title="-",MTV LIVE HD
+http://200.95.184.123:9002/play/a0k1
+#EXTINF:-1 group-title="-",NTV
+http://200.95.184.123:9002/play/a0wh
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://200.95.184.123:9002/play/a05a
+#EXTINF:-1 group-title="-",Nat Geo Wild HD
+http://200.95.184.123:9002/play/a0an
+#EXTINF:-1 group-title="-",Nick HD
+http://200.95.184.123:9002/play/a06m
+#EXTINF:-1 group-title="-",Paramount HD
+http://200.95.184.123:9002/play/a0l0
+#EXTINF:-1 group-title="-",Pasiones HD
+http://200.95.184.123:9002/play/pasioneshd
+#EXTINF:-1 group-title="-",REC TV
+http://200.95.184.123:9002/play/a0w3
+#EXTINF:-1 group-title="-",STAR HD
+http://200.95.184.123:9002/play/a0ao
+#EXTINF:-1 group-title="-",Sony HD
+http://200.95.184.123:9002/play/a06d
+#EXTINF:-1 group-title="-",Space HD
+http://200.95.184.123:9002/play/a06g
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://200.95.184.123:9002/play/a0uc
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://200.95.184.123:9002/play/a0aj
+#EXTINF:-1 group-title="-",TELENOVELAS
+http://200.95.184.123:9002/play/a0wm
+#EXTINF:-1 group-title="-",TELETRAK
+http://200.95.184.123:9002/play/a0wi
+#EXTINF:-1 group-title="-",TNT HD
+http://200.95.184.123:9002/play/a06w
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://200.95.184.123:9002/play/a0ru
+#EXTINF:-1 group-title="-",TNT SPORTS HD
+http://200.95.184.123:9002/play/cdfhd
+#EXTINF:-1 group-title="-",TNT SPORTS HD
+#EXTINF:-1,TNT Sports HD
+http://latinostvhd.club:25461/6266787880/3f8087cffc/63150
+#EXTINF:-1,TNT Sports Premium FHD
+http://latinostvhd.club:25461/6266787880/3f8087cffc/147317
+#EXTINF:-1,TNT Sports Premium HD
+http://latinostvhd.club:25461/6266787880/3f8087cffc/171539
+#EXTINF:-1,TNT Sports Premium HD (SOLO EVENTOS)
+http://latinostvhd.club:25461/6266787880/3f8087cffc/209565
+#EXTINF:-1 group-title="-",TNT Series HD
+http://200.95.184.123:9002/play/a0ur
+#EXTINF:-1 group-title="-",TV+ HD
+http://200.95.184.123:9002/play/a0sg
+#EXTINF:-1 group-title="-",TVN HD
+http://200.95.184.123:9002/play/a0ta
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://200.95.184.123:9002/play/a0ap
+#EXTINF:-1 group-title="-",Universal Cinema SD
+http://200.95.184.123:9002/play/a0wf
+#EXTINF:-1 group-title="-",Universal Comedy SD
+http://200.95.184.123:9002/play/a0wg
+#EXTINF:-1 group-title="-",Universal Premiere SD
+http://200.95.184.123:9002/play/a0we
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://200.95.184.123:9002/play/a06e
