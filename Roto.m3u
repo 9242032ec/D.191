@@ -36,7 +36,7 @@ http://181.13.112.203:8100/play/a06e/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cartoon Network HD
 http://181.13.112.203:8100/play/a075/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cartoon Network HD [OP 2]
-http://200.80.230.123:8000/play/a075/index.m3u8|live=1|timeout=2|buffer=925
+http://190.123.90.146:8000/play/a02x/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cine.AR
 http://181.13.112.203:8100/play/a024/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinecanal HD
@@ -44,7 +44,7 @@ http://200.80.230.123:8000/play/a07b/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinecanal HD [OP 2]
 http://200.80.230.124:8000/play/a07b/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinemax
-http://200.80.230.123:8000/play/a0ae/index.m3u8|live=1|timeout=2|buffer=925
+http://190.123.90.146:8000/play/a01o/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinemax [OP 2]
 http://200.80.230.124:8000/play/a0ae/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Comedy Central HD
@@ -198,9 +198,9 @@ http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony Movies HD [OP 2]
 http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Space HD
-http://200.80.230.123:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
+http://181.13.252.102:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Space HD [OP 2]
-http://200.80.230.124:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
+http://190.123.90.146:8000/play/a00o/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Star Channel HD
 http://200.80.230.123:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Star Channel HD [OP 2]
