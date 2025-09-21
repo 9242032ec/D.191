@@ -246,15 +246,15 @@ http://181.13.112.203:8100/play/a023/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Universal HD
 http://38.199.6.1:17001/play/a04m/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,UNIVERSAL COMEDY HD
-http://181.78.49.179:8000/play/a041|live=1|timeout=2|buffer=925
+http://181.189.235.86:9999/play/a0ci/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,UNIVERSAL CRIME HD
-http://181.78.49.179:8000/play/a040|live=1|timeout=2|buffer=925
+http://181.189.235.86:9999/play/a0ch/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,UNIVERSAL PREMIERE HD
-http://181.78.49.179:8000/play/a03x|live=1|timeout=2|buffer=925
+http://181.189.235.86:9999/play/a0cf/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,UNIVERSAL REALITY HD
-http://181.78.49.179:8000/play/a03z|live=1|timeout=2|buffer=925
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://181.78.49.179:8000/play/a080|live=1|timeout=2|buffer=925
+http://181.189.235.86:9999/play/a0cg/index.m3u8|live=1|timeout=2|buffer=925
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://181.189.235.86:9999/play/a0c9/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Venus
 http://181.13.112.203:8100/play/a033/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Volver
