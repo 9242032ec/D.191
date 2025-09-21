@@ -5,7 +5,7 @@ http://200.80.230.123:8000/play/a01r/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a05i/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,A24
 http://200.80.230.123:8000/play/a01o/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,A24 - OP 2
+#EXTINF:-1,A24-2
 http://181.13.252.102:8000/play/a01o/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,AM Sports
 http://181.13.112.203:8100/play/a01v/index.m3u8|live=1|timeout=2|buffer=925
@@ -19,7 +19,7 @@ http://181.13.112.203:8100/play/a05f/index.m3u8|live=1|timeout=2|buffer=925
 http://190.104.67.2:234/play/a08d/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,America TV HD
 http://181.13.112.203:8100/play/a055/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,America TV HD - OP 2
+#EXTINF:-1,America TV HD-2
 http://200.80.230.123:8000/play/a0a7/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,BANDEIRANTES
 http://181.13.112.203:8100/play/a0f2/index.m3u8|live=1|timeout=2|buffer=925
@@ -35,21 +35,21 @@ http://181.13.112.203:8100/play/a09j/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a06e/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cartoon Network HD
 http://181.13.112.203:8100/play/a075/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Cartoon Network HD - OP 2
+#EXTINF:-1,Cartoon Network HD-2
 http://190.123.90.146:8000/play/a02x/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cine.AR
 http://181.13.112.203:8100/play/a024/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinecanal HD
 http://200.80.230.123:8000/play/a07b/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Cinecanal HD - OP 2
+#EXTINF:-1,Cinecanal HD-2
 http://200.80.230.124:8000/play/a07b/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cinemax
 http://190.123.90.146:8000/play/a01o/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Cinemax - OP 2
+#EXTINF:-1,Cinemax-2
 http://200.80.230.124:8000/play/a0ae/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Comedy Central HD
 http://200.80.230.123:8000/play/a02x/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Comedy Central HD - OP 2
+#EXTINF:-1,Comedy Central HD-2
 http://200.80.230.124:8000/play/a02x/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Cronica
 http://200.80.230.123:8000/play/a01q/index.m3u8|live=1|timeout=2|buffer=925
@@ -91,9 +91,9 @@ http://200.80.230.124:8000/play/a0ad/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a076/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ESPN Premium HD
 http://181.13.112.203:8100/play/a078/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ESPN Premium HD - OP 2
+#EXTINF:-1,ESPN Premium HD-2
 http://190.104.67.2:234/play/a086/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ESPN Premium HD - OP 3
+#EXTINF:-1,ESPN Premium HD-3
 http://181.13.252.102:8000/play/a078/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,El Canal de las Estrellas
 http://181.13.112.203:8100/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
@@ -147,7 +147,7 @@ http://181.13.112.203:8100/play/a02o/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a0ab/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,La Nacion TV
 http://200.80.230.123:8000/play/a01s/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,La Nacion TV - OP 2
+#EXTINF:-1,La Nacion TV-2
 http://200.80.230.124:8000/play/a01s/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Lifetime
 http://181.13.112.203:8100/play/a06n/index.m3u8|live=1|timeout=2|buffer=925
@@ -187,11 +187,11 @@ http://181.13.112.203:8100/play/a02f/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a034/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony HD
 http://181.13.112.203:8100/play/a05d/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Sony HD - OP 2
+#EXTINF:-1,Sony HD-2
 http://200.80.230.123:8000/play/a0b1/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony Movies HD
 http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Sony Movies HD - OP 2
+#EXTINF:-1,Sony Movies HD-2
 http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Space HD
 http://181.13.252.102:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
@@ -199,7 +199,7 @@ http://181.13.252.102:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
 http://190.123.90.146:8000/play/a00o/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Star Channel HD
 http://200.80.230.123:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Star Channel HD - OP 2
+#EXTINF:-1,Star Channel HD-2
 http://200.80.230.124:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Studio Universal
 http://181.13.112.203:8100/play/a022/index.m3u8|live=1|timeout=2|buffer=925
@@ -223,13 +223,13 @@ http://200.80.230.123:8000/play/a07g/index.m3u8|live=1|timeout=2|buffer=925
 http://200.80.230.123:8000/play/a07e/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TNT Sports HD
 http://190.104.67.8:234/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TNT Sports HD - OP 2
+#EXTINF:-1,TNT Sports HD-2
 http://181.13.112.203:8100/play/a0bc/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TNT Sports HD - OP 3
+#EXTINF:-1,TNT Sports HD-3
 http://190.104.67.2:234/play/a06z/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TV Publica HD
 http://200.80.230.123:8000/play/a0a8/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TV Publica HD - OP 2
+#EXTINF:-1,TV Publica HD-2
 http://200.80.230.124:8000/play/a0a8/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TVE
 http://181.13.112.203:8100/play/a072/index.m3u8|live=1|timeout=2|buffer=925
@@ -237,15 +237,15 @@ http://181.13.112.203:8100/play/a072/index.m3u8|live=1|timeout=2|buffer=925
 http://190.61.34.164:8000/play/a01e/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Telefe HD
 http://200.80.230.123:8000/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Telefe HD - OP 2
+#EXTINF:-1,Telefe HD-2
 http://200.80.230.124:8000/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,The History Channel HD
 http://181.13.112.203:8100/play/a05h/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TyC Sports HD
 http://200.80.230.123:8000/play/a02s/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TyC Sports HD - OP 2
+#EXTINF:-1,TyC Sports HD-2
 http://200.80.230.124:8000/play/a02s/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,TyC Sports HD - OP 3
+#EXTINF:-1,TyC Sports HD-3
 http://181.13.252.102:8000/play/a02s/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,USA Network
 http://181.13.112.203:8100/play/a023/index.m3u8|live=1|timeout=2|buffer=925
@@ -269,13 +269,13 @@ http://181.13.112.203:8100/play/a021/index.m3u8|live=1|timeout=2|buffer=925
 http://181.13.112.203:8100/play/a05e/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,ciudad magazine
 http://181.13.112.203:8100/play/a02h/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,ciudad magazine - OP 2
+#EXTINF:-1,ciudad magazine-2
 http://200.80.230.123:8000/play/a02h/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,el nueve HD
 http://200.80.230.123:8000/play/a0a9/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,el nueve HD - OP 2
+#EXTINF:-1,el nueve HD-2
 http://200.80.230.124:8000/play/a0a9/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,el trece HD
 http://200.80.230.123:8000/play/a06d/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,el trece HD - OP 2
+#EXTINF:-1,el trece HD-2
 http://181.13.112.203:8100/play/a0bg/index.m3u8|live=1|timeout=2|buffer=925
