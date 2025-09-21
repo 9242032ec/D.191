@@ -1,2 +1,3 @@
-FUTBOL EC
+#EXTM3U
+#EXTINF:-1,FUTBOL EC
 http://160.20.165.246:8000/play/a021/index.m3u8
