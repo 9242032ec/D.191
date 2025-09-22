@@ -234,7 +234,9 @@ http://200.80.230.124:8000/play/a0a8/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TVE
 http://181.13.112.203:8100/play/a072/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TOONCAT
-http://190.61.34.164:8000/play/a01e/index.m3u8|live=1|timeout=2|buffer=925
+http://190.171.83.2:4000/play/a0qt/index.m3u8|live=1|timeout=2|buffer=925
+#EXTINF:-1,TOONCAT-2
+http://190.171.83.2:4000/play/a0qt/index.m3u8?fbclid=IwY2xjawLsxfRleHRuA2FlbQIxMQABHkT2WjgVdlgeJg6QXq8ZkM7eg_QpVIWqBebEr48Z_YBV1RHSjZPL5Wk7Mopg_aem_jVlnZnJljJKXFXnzzPpAcA|live=1|timeout=2|buffer=925
 #EXTINF:-1,Telefe HD
 http://200.80.230.123:8000/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Telefe HD-2
