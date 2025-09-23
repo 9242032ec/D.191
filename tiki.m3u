@@ -202,7 +202,7 @@ http://200.80.230.123:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Star Channel HD-2
 http://200.80.230.124:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Studio Universal
-http://181.13.112.203:8100/play/a022/index.m3u8|live=1|timeout=2|buffer=925
+http://38.199.6.1:17001/play/a05b/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,T5 SATELITAL
 http://181.13.112.203:8100/play/a0eo/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TCM
