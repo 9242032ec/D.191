@@ -186,16 +186,16 @@ http://181.13.112.203:8100/play/a02f/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sextreme
 http://181.13.112.203:8100/play/a034/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony HD
-http://181.13.112.203:8100/play/a05d/index.m3u8|live=1|timeout=2|buffer=925
+http://190.104.67.2:234/playlist.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony HD-2
 http://200.80.230.123:8000/play/a0b1/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony Movies HD
 http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Sony Movies HD-2
-http://200.80.230.124:8000/play/a0b2/index.m3u8|live=1|timeout=2|buffer=925
+http://190.104.67.2:234/play/a09j/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Space HD
 http://181.13.252.102:8000/play/a02w/index.m3u8|live=1|timeout=2|buffer=925
-#EXTINF:-1,Space HD [OP 2]
+#EXTINF:-1,Space HD-2
 http://190.123.90.146:8000/play/a00o/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Star Channel HD
 http://200.80.230.123:8000/play/a079/index.m3u8|live=1|timeout=2|buffer=925
@@ -212,7 +212,7 @@ http://181.13.112.203:8100/play/a0f8/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TLNovelas
 http://181.13.112.203:8100/play/a0ae/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TN HD
-http://200.80.230.123:8000/play/a0a6/index.m3u8|live=1|timeout=2|buffer=925
+http://190.104.67.2:234/play/a097/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TN HD - OP 2
 http://200.80.230.124:8000/play/a0a6/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TNT HD
