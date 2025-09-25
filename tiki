@@ -238,9 +238,9 @@ http://190.171.83.2:4000/play/a0qt/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TOONCAT OP2
 http://190.171.83.2:4000/play/a0qt/index.m3u8?fbclid=IwY2xjawLsxfRleHRuA2FlbQIxMQABHkT2WjgVdlgeJg6QXq8ZkM7eg_QpVIWqBebEr48Z_YBV1RHSjZPL5Wk7Mopg_aem_jVlnZnJljJKXFXnzzPpAcA|live=1|timeout=2|buffer=925
 #EXTINF:-1,Telefe HD
-http://190.104.67.2:234/play/a08a/index.m3u8|live=1|timeout=2|buffer=925
+http://200.80.230.124:8000/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,Telefe HD OP2
-http://181.13.252.102:8000/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
+http://181.13.112.203:8100/play/a06c/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,The History Channel HD
 http://181.13.112.203:8100/play/a05h/index.m3u8|live=1|timeout=2|buffer=925
 #EXTINF:-1,TyC Sports HD
