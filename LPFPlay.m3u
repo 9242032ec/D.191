@@ -1,5 +1,12 @@
 #EXTM3U
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"}
 #EXTINF:-1,Evento 1
-
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/37bb6d83-043c-4a85-aa8a-f7029fa6c3fb/154671b0-7dd3-4a51-8b9a-7490b0f72a01/2/streamPlaylist.m3u8
 #EXTINF:-1,Evento 2
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/deebc888-9184-43d8-8d00-7ff6f95a9901/a983f5f4-e788-40d8-9de4-7b8a6a5d7de0/2/streamPlaylist.m3u8
+#EXTINF:-1,Evento 3
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/c8715a72-c7b3-4b5a-97a5-068c19a9a793/b84484ea-0aef-4a1b-b70b-43334fcb5203/2/streamPlaylist.m3u8
+#EXTINF:-1,Evento 4
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/0536b40c-0eaf-4b9d-a800-589a5463219f/188727ec-f243-47a3-bf72-79a7d62a68a5/2/streamPlaylist.m3u8
+#EXTINF:-1,Evento 5
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/b8cc8a36-227a-4c2c-83ce-478f0d139cba/e326f6bf-cf80-4ef9-825a-39047d66aa76/2/streamPlaylist.m3u8
